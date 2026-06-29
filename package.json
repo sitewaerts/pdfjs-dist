@@ -9,7 +9,7 @@
     "pdf",
     "pdf.js"
   ],
-  "homepage": "http://mozilla.github.io/pdf.js/",
+  "homepage": "https://mozilla.github.io/pdf.js/",
   "bugs": "https://github.com/mozilla/pdf.js/issues",
   "license": "Apache-2.0",
   "browser": {
