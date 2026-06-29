@@ -1,5 +1,5 @@
 {
-  "name": "@sitewaerts/pdfjs-dist",
+  "name": "@sitewaerts/pdfjs-dist-edge18",
   "version": "2.6.352",
   "main": "build/pdf.js",
   "types": "types/pdf.d.ts",
@@ -23,6 +23,6 @@
   "format": "amd",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sitewaerts/pdfjs-dist"
+    "url": "https://github.com/sitewaerts/pdfjs-dist/tree/edge18"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@sitewaerts/pdfjs-dist",
+  "name": "@sitewaerts/pdfjs-dist-edge18",
   "version": "2.6.352",
   "main": [
     "build/pdf.js",
